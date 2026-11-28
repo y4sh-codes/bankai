@@ -1,0 +1,12 @@
+{
+  "id": "s045-ups3-angle-sub",
+  "project": "alpha",
+  "photos": ["nersc-eps8000-ups-plate-angle.jpg", "nersc-eps8000-ups-whole.jpg"],
+  "location": "UPS-RM-B",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "UPS-3",
+    "failing_checks": ["substitution"]
+  },
+  "kind": "unapproved_substitution"
+}

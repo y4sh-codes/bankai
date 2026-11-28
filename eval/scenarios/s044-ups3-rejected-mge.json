@@ -1,0 +1,12 @@
+{
+  "id": "s044-ups3-rejected-mge",
+  "project": "alpha",
+  "photos": ["nersc-eps8000-ups-plate.jpg", "nersc-eps8000-ups-whole.jpg"],
+  "location": "UPS-RM-B",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "UPS-3",
+    "failing_checks": ["substitution"]
+  },
+  "kind": "unapproved_substitution"
+}

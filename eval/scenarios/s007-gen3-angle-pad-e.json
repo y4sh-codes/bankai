@@ -1,0 +1,12 @@
+{
+  "id": "s007-gen3-angle-pad-e",
+  "project": "alpha",
+  "photos": ["bonn-tg2-plate-angle.jpg", "bonn-tg2-whole.jpg"],
+  "location": "PAD-E",
+  "expected": {
+    "status": "confirmed",
+    "subject_tag": "GEN-3",
+    "failing_checks": []
+  },
+  "kind": "correct"
+}

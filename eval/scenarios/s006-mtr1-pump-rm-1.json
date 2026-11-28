@@ -1,0 +1,12 @@
+{
+  "id": "s006-mtr1-pump-rm-1",
+  "project": "alpha",
+  "photos": ["rush-motor2-plate.jpg", "rush-motor2-whole.jpg"],
+  "location": "PUMP-RM-1",
+  "expected": {
+    "status": "confirmed",
+    "subject_tag": "MTR-1",
+    "failing_checks": []
+  },
+  "kind": "correct"
+}

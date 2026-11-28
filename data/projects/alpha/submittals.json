@@ -314,8 +314,8 @@
   {
     "id": "SUB-40",
     "tag": "PUMP-1",
-    "manufacturer": "Nordberg",
-    "model": "NP-150",
+    "manufacturer": "Grundfos",
+    "model": "CR 45-2",
     "status": "approved",
     "deviations": []
   },
@@ -353,9 +353,9 @@
   },
   {
     "id": "SUB-94",
-    "tag": "PUMP-1",
-    "manufacturer": "Nordberg",
-    "model": "NP-150",
+    "tag": "UPS-3",
+    "manufacturer": "MGE",
+    "model": "EPS 8000A",
     "status": "rejected",
     "deviations": []
   }

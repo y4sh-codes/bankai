@@ -4,11 +4,11 @@ GEN-1,generator,PAD-A,Cummins,CJ 300 D5P,415,300,240,3,50,E-201,B
 GEN-2,generator,PAD-D,Westinghouse,G-30000,11000,30000,,3,60,E-202,B
 GEN-2,generator,PAD-C,Westinghouse,G-30000,11000,30000,,3,60,E-202,A
 GEN-3,generator,PAD-E,General Electric,ATI 96,13800,43000,,3,60,E-201,C
-GEN-4,generator,PAD-F,Caterpillar,3516B,415,2000,,3,50,E-201,C
+GEN-4,generator,PAD-F,Caterpillar,3516B,550,,500,3,50,E-201,C
 GEN-5,generator,GEN-YARD-1,Siemens,LD 6 182/8,415,1000,800,3,50,E-202,B
 GEN-6,generator,GEN-YARD-2,Siemens,DG 182/8,415,1250,800,3,50,E-202,B
 GEN-7,generator,GEN-YARD-3,General Electric,AP,800,,,3,60,E-202,B
-GEN-8,generator,GEN-YARD-4,Westinghouse,W-94,415,94,,3,60,E-202,B
+GEN-8,generator,GEN-YARD-4,Westinghouse,W-94,208/120,94,,3,60,E-202,B
 GEN-9,generator,GEN-YARD-5,Otto Bartholdi AG,WQ 1250/1120 M22,11000,920,,3,50,E-202,B
 GEN-10,generator,GEN-YARD-6,General Electric,MP,240,,,3,60,E-202,B
 TX-1,transformer,TX-YARD-1,Trafo-Union,TG 5644 D,20000/400,400,,3,50,E-101,B
@@ -40,9 +40,13 @@ CH-3,chiller,CHILLER-YARD-3,Carrier,30XA,415,,,3,50,M-101,A
 CRAH-1,crah,HALL-1,Vertiv,PX080,415,,,3,50,M-301,B
 CRAH-2,crah,HALL-2,Vertiv,PX060,415,,,3,50,M-301,B
 CRAH-3,crah,HALL-3,Stulz,CyberAir 3,415,,,3,50,M-301,B
-PUMP-1,pump,PUMP-RM-1,Nordberg,NP-150,415,,75,3,50,M-101,A
+PUMP-1,pump,PUMP-RM-1,Grundfos,CR 45-2,415,,11,3,50,M-101,A
 MTR-1,motor,PUMP-RM-1,General Electric,56F214G1,2200,,,3,50,M-101,A
 TX-1,transformer,TX-YARD-4,Trafo-Union,TG 5644 D,20000/400,400,,3,50,E-101,A
 ATS-1,ats,ATS-RM-2,ASCO,7000 SERIES,480,,,3,60,E-301,0
 CH-1,chiller,CHILLER-YARD-3,Trane,AquaStream 3G,415,,,3,50,M-101,0
 MTR-1,motor,PUMP-RM-2,General Electric,56F214G1,2200,,,3,50,M-101,0
+TX-2,transformer,TX-YARD-2,ABB,RESIBLOC 1600,11000/415,1600,,3,50,E-101,A
+TX-3,transformer,TX-YARD-3,Trafo-Union,TG 5644 D,11000,630,,3,50,E-101,A
+TX-4,transformer,TX-YARD-4,Siemens,GEAFOL 2500,11000/415,2500,,3,50,E-101,A
+TX-5,transformer,TX-YARD-5,Schneider,Trihal 2000,11000/415,2000,,3,50,E-101,A

@@ -41,9 +41,9 @@
     "tag": "GEN-4",
     "manufacturer": "Caterpillar",
     "model": "3516B",
-    "voltage": "415",
-    "kva": 2000,
-    "kw": null,
+    "voltage": "550",
+    "kva": null,
+    "kw": 500,
     "components": ["generator", "exhaust silencer"],
     "qty": 1
   },
@@ -89,7 +89,7 @@
     "tag": "GEN-8",
     "manufacturer": "Westinghouse",
     "model": "W-94",
-    "voltage": "415",
+    "voltage": "208/120",
     "kva": 94,
     "kw": null,
     "components": ["generator", "exhaust silencer"],
@@ -368,7 +368,7 @@
     "voltage": "480",
     "kva": null,
     "kw": null,
-    "components": ["transfer switch", "remote annunciator"],
+    "components": ["ats", "remote annunciator"],
     "qty": 1
   },
   {

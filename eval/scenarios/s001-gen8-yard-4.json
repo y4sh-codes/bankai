@@ -1,0 +1,12 @@
+{
+  "id": "s001-gen8-yard-4",
+  "project": "alpha",
+  "photos": ["stlucie-gen-plate.jpg", "stlucie-gen-whole.jpg"],
+  "location": "GEN-YARD-4",
+  "expected": {
+    "status": "confirmed",
+    "subject_tag": "GEN-8",
+    "failing_checks": []
+  },
+  "kind": "correct"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "s003-pdu-e-hall-1",
+  "project": "alpha",
+  "photos": ["mge-pdu-e-tag.jpg", "mge-pdu-e-whole.jpg"],
+  "location": "HALL-1",
+  "expected": {
+    "status": "confirmed",
+    "subject_tag": "PDU-E",
+    "failing_checks": []
+  },
+  "kind": "correct"
+}
