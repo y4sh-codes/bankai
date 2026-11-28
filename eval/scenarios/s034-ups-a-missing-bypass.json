@@ -1,0 +1,12 @@
+{
+  "id": "s034-ups-a-missing-bypass",
+  "project": "alpha",
+  "photos": ["mge-eps6000-plate.jpg", "mge-eps6000-whole.jpg"],
+  "location": "UPS-RM-A",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "UPS-A",
+    "failing_checks": ["completeness"]
+  },
+  "kind": "partial_shipment"
+}

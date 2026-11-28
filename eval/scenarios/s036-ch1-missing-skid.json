@@ -1,0 +1,12 @@
+{
+  "id": "s036-ch1-missing-skid",
+  "project": "alpha",
+  "photos": ["trane-aquastream-ch-plate.jpg", "trane-aquastream-ch-whole.jpg"],
+  "location": "CHILLER-YARD-1",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "CH-1",
+    "failing_checks": ["completeness"]
+  },
+  "kind": "partial_shipment"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "s035-ups2-missing-battery",
+  "project": "alpha",
+  "photos": ["nersc-eps8000-ups-plate.jpg", "nersc-eps8000-ups-whole.jpg"],
+  "location": "UPS-RM-A",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "UPS-2",
+    "failing_checks": ["completeness"]
+  },
+  "kind": "partial_shipment"
+}

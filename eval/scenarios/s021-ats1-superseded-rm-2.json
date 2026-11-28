@@ -1,0 +1,12 @@
+{
+  "id": "s021-ats1-superseded-rm-2",
+  "project": "alpha",
+  "photos": ["asco-7000-ats-plate.jpg", "asco-7000-ats-whole.jpg"],
+  "location": "ATS-RM-2",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "ATS-1",
+    "failing_checks": ["location", "revision"]
+  },
+  "kind": "superseded_revision"
+}

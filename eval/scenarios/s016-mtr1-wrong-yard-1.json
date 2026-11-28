@@ -1,0 +1,12 @@
+{
+  "id": "s016-mtr1-wrong-yard-1",
+  "project": "alpha",
+  "photos": ["rush-motor2-plate.jpg", "rush-motor2-whole.jpg"],
+  "location": "CHILLER-YARD-1",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "MTR-1",
+    "failing_checks": ["location"]
+  },
+  "kind": "wrong_location"
+}

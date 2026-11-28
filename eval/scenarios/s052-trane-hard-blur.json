@@ -1,0 +1,12 @@
+{
+  "id": "s052-trane-hard-blur",
+  "project": "alpha",
+  "photos": ["trane-aquastream-ch-plate-hard.jpg"],
+  "location": "CHILLER-YARD-1",
+  "expected": {
+    "status": "needs_human",
+    "subject_tag": null,
+    "failing_checks": []
+  },
+  "kind": "unreadable"
+}

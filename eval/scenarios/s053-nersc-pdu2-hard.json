@@ -1,0 +1,12 @@
+{
+  "id": "s053-nersc-pdu2-hard",
+  "project": "alpha",
+  "photos": ["nersc-pdu2-plate-hard.jpg"],
+  "location": "HALL-1",
+  "expected": {
+    "status": "needs_human",
+    "subject_tag": null,
+    "failing_checks": []
+  },
+  "kind": "unreadable"
+}

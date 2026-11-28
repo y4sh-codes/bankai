@@ -1,0 +1,12 @@
+{
+  "id": "s006-ats1-rm-1",
+  "project": "alpha",
+  "photos": ["asco-7000-ats-plate.jpg", "asco-7000-ats-whole.jpg"],
+  "location": "ATS-RM-1",
+  "expected": {
+    "status": "confirmed",
+    "subject_tag": "ATS-1",
+    "failing_checks": []
+  },
+  "kind": "correct"
+}

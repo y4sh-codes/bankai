@@ -1,0 +1,12 @@
+{
+  "id": "s010-gen3-wrong-pad-f",
+  "project": "alpha",
+  "photos": ["bonn-tg2-plate-angle.jpg", "bonn-tg2-whole.jpg"],
+  "location": "PAD-F",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-3",
+    "failing_checks": ["location"]
+  },
+  "kind": "wrong_location"
+}

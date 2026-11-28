@@ -1,0 +1,12 @@
+{
+  "id": "s005-tx1-yard-1",
+  "project": "alpha",
+  "photos": ["cast-resin-tx-plate.jpg", "cast-resin-tx-whole.jpg"],
+  "location": "TX-YARD-1",
+  "expected": {
+    "status": "confirmed",
+    "subject_tag": "TX-1",
+    "failing_checks": []
+  },
+  "kind": "correct"
+}

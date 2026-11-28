@@ -1,0 +1,12 @@
+{
+  "id": "s030-gen10-volt-mismatch",
+  "project": "alpha",
+  "photos": ["kern-ex1-plate.jpg", "kern-ex1-whole.jpg"],
+  "location": "GEN-YARD-6",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-10",
+    "failing_checks": ["spec"]
+  },
+  "kind": "spec_mismatch"
+}

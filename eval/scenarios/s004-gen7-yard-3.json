@@ -1,0 +1,12 @@
+{
+  "id": "s004-gen7-yard-3",
+  "project": "alpha",
+  "photos": ["folsom-gen4-plate.jpg", "folsom-gen4-whole.jpg"],
+  "location": "GEN-YARD-3",
+  "expected": {
+    "status": "confirmed",
+    "subject_tag": "GEN-7",
+    "failing_checks": []
+  },
+  "kind": "correct"
+}

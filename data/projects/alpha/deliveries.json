@@ -81,15 +81,6 @@
     "driver_id": "DRV-17"
   },
   {
-    "ticket": "DT-105",
-    "line": 2,
-    "po": "PO-1005",
-    "tag": "GEN-5",
-    "item": "exhaust silencer",
-    "qty": 1,
-    "driver_id": "DRV-17"
-  },
-  {
     "ticket": "DT-106",
     "line": 1,
     "po": "PO-1006",
@@ -293,15 +284,6 @@
     "po": "PO-1022",
     "tag": "UPS-2",
     "item": "ups cabinet",
-    "qty": 1,
-    "driver_id": "DRV-16"
-  },
-  {
-    "ticket": "DT-122",
-    "line": 2,
-    "po": "PO-1022",
-    "tag": "UPS-2",
-    "item": "battery cabinet",
     "qty": 1,
     "driver_id": "DRV-16"
   },

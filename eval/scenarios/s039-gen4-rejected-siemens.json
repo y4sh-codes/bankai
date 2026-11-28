@@ -1,0 +1,12 @@
+{
+  "id": "s039-gen4-rejected-siemens",
+  "project": "alpha",
+  "photos": ["massarelos-gen-plate.jpg", "massarelos-gen-whole.jpg"],
+  "location": "PAD-F",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-4",
+    "failing_checks": ["substitution"]
+  },
+  "kind": "unapproved_substitution"
+}

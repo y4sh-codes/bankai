@@ -1,0 +1,12 @@
+{
+  "id": "s025-gen6-angle-mismatch",
+  "project": "alpha",
+  "photos": ["tarandt-gen2-plate-angle.jpg", "tarandt-gen2-whole.jpg"],
+  "location": "GEN-YARD-2",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-6",
+    "failing_checks": ["spec"]
+  },
+  "kind": "spec_mismatch"
+}

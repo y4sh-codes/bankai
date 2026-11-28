@@ -1,0 +1,12 @@
+{
+  "id": "s032-gen1-missing-controls",
+  "project": "alpha",
+  "photos": ["cummins-cj300-gen-plate.jpg", "cummins-cj300-gen-whole.jpg"],
+  "location": "PAD-B",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-1",
+    "failing_checks": ["completeness"]
+  },
+  "kind": "partial_shipment"
+}

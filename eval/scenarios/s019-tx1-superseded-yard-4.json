@@ -1,0 +1,12 @@
+{
+  "id": "s019-tx1-superseded-yard-4",
+  "project": "alpha",
+  "photos": ["cast-resin-tx-plate.jpg", "cast-resin-tx-whole.jpg"],
+  "location": "TX-YARD-4",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "TX-1",
+    "failing_checks": ["location", "revision"]
+  },
+  "kind": "superseded_revision"
+}

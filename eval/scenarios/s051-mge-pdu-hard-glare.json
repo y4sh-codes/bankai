@@ -1,0 +1,12 @@
+{
+  "id": "s051-mge-pdu-hard-glare",
+  "project": "alpha",
+  "photos": ["mge-pdu-e-plate-hard.jpg"],
+  "location": "HALL-1",
+  "expected": {
+    "status": "needs_human",
+    "subject_tag": null,
+    "failing_checks": []
+  },
+  "kind": "unreadable"
+}

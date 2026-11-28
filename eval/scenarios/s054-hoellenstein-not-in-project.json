@@ -1,0 +1,12 @@
+{
+  "id": "s054-hoellenstein-not-in-project",
+  "project": "alpha",
+  "photos": ["hoellenstein-gen-plate.jpg", "hoellenstein-gen-whole.jpg"],
+  "location": "PAD-A",
+  "expected": {
+    "status": "needs_human",
+    "subject_tag": null,
+    "failing_checks": []
+  },
+  "kind": "not_in_project"
+}

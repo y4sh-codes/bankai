@@ -1,0 +1,12 @@
+{
+  "id": "s043-tx2-angle-sub",
+  "project": "alpha",
+  "photos": ["liander-tx-plate-angle.jpg", "liander-tx-whole.jpg"],
+  "location": "TX-YARD-2",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "TX-2",
+    "failing_checks": ["substitution"]
+  },
+  "kind": "unapproved_substitution"
+}

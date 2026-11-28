@@ -1,0 +1,12 @@
+{
+  "id": "s011-tx1-wrong-yard-2",
+  "project": "alpha",
+  "photos": ["cast-resin-tx-plate-angle.jpg", "cast-resin-tx-whole.jpg"],
+  "location": "TX-YARD-2",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "TX-1",
+    "failing_checks": ["location"]
+  },
+  "kind": "wrong_location"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "s055-hoellenstein-angle-unlisted",
+  "project": "alpha",
+  "photos": ["hoellenstein-gen-plate-angle.jpg", "hoellenstein-gen-tag.jpg"],
+  "location": "PAD-B",
+  "expected": {
+    "status": "needs_human",
+    "subject_tag": null,
+    "failing_checks": []
+  },
+  "kind": "not_in_project"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "s022-ch1-superseded-yard-3",
+  "project": "alpha",
+  "photos": ["trane-aquastream-ch-plate.jpg", "trane-aquastream-ch-whole.jpg"],
+  "location": "CHILLER-YARD-3",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "CH-1",
+    "failing_checks": ["location", "revision"]
+  },
+  "kind": "superseded_revision"
+}

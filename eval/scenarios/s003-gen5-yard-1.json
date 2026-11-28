@@ -1,0 +1,12 @@
+{
+  "id": "s003-gen5-yard-1",
+  "project": "alpha",
+  "photos": ["tarandt-gen-plate.jpg", "tarandt-gen-whole.jpg"],
+  "location": "GEN-YARD-1",
+  "expected": {
+    "status": "confirmed",
+    "subject_tag": "GEN-5",
+    "failing_checks": []
+  },
+  "kind": "correct"
+}

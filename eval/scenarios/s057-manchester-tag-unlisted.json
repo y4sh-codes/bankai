@@ -1,0 +1,12 @@
+{
+  "id": "s057-manchester-tag-unlisted",
+  "project": "alpha",
+  "photos": ["manchester-substation-tag.jpg", "manchester-substation-whole.jpg"],
+  "location": "TX-YARD-2",
+  "expected": {
+    "status": "needs_human",
+    "subject_tag": null,
+    "failing_checks": []
+  },
+  "kind": "not_in_project"
+}

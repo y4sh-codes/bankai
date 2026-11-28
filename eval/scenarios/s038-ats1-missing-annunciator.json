@@ -1,0 +1,12 @@
+{
+  "id": "s038-ats1-missing-annunciator",
+  "project": "alpha",
+  "photos": ["asco-7000-ats-plate.jpg", "asco-7000-ats-whole.jpg"],
+  "location": "ATS-RM-1",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "ATS-1",
+    "failing_checks": ["completeness"]
+  },
+  "kind": "partial_shipment"
+}

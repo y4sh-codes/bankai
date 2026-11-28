@@ -1,0 +1,12 @@
+{
+  "id": "s037-gen5-missing-silencer",
+  "project": "alpha",
+  "photos": ["tarandt-gen-plate.jpg", "tarandt-gen-whole.jpg"],
+  "location": "GEN-YARD-1",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-5",
+    "failing_checks": ["completeness"]
+  },
+  "kind": "partial_shipment"
+}

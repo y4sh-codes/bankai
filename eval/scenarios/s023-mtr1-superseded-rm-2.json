@@ -1,0 +1,12 @@
+{
+  "id": "s023-mtr1-superseded-rm-2",
+  "project": "alpha",
+  "photos": ["rush-motor2-plate.jpg", "rush-motor2-whole.jpg"],
+  "location": "PUMP-RM-2",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "MTR-1",
+    "failing_checks": ["location", "revision"]
+  },
+  "kind": "superseded_revision"
+}

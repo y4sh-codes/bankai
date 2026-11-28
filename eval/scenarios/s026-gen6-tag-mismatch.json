@@ -1,0 +1,12 @@
+{
+  "id": "s026-gen6-tag-mismatch",
+  "project": "alpha",
+  "photos": ["tarandt-gen2-tag.jpg", "tarandt-gen2-whole.jpg"],
+  "location": "GEN-YARD-2",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-6",
+    "failing_checks": ["spec"]
+  },
+  "kind": "spec_mismatch"
+}

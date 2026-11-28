@@ -1,0 +1,12 @@
+{
+  "id": "s028-gen9-angle-mismatch",
+  "project": "alpha",
+  "photos": ["leinau-gen-plate-angle.jpg", "leinau-gen-whole.jpg"],
+  "location": "GEN-YARD-5",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-9",
+    "failing_checks": ["spec"]
+  },
+  "kind": "spec_mismatch"
+}

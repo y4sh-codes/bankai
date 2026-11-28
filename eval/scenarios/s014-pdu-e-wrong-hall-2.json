@@ -1,0 +1,12 @@
+{
+  "id": "s014-pdu-e-wrong-hall-2",
+  "project": "alpha",
+  "photos": ["mge-pdu-e-tag.jpg", "mge-pdu-e-whole.jpg"],
+  "location": "HALL-2",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "PDU-E",
+    "failing_checks": ["location"]
+  },
+  "kind": "wrong_location"
+}

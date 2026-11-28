@@ -350,5 +350,13 @@
     "model": "CyberAir 3",
     "status": "rejected",
     "deviations": []
+  },
+  {
+    "id": "SUB-94",
+    "tag": "PUMP-1",
+    "manufacturer": "Nordberg",
+    "model": "NP-150",
+    "status": "rejected",
+    "deviations": []
   }
 ]

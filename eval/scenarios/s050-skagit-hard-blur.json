@@ -1,0 +1,12 @@
+{
+  "id": "s050-skagit-hard-blur",
+  "project": "alpha",
+  "photos": ["skagit-gorge21-plate-hard.jpg"],
+  "location": "PAD-D",
+  "expected": {
+    "status": "needs_human",
+    "subject_tag": null,
+    "failing_checks": []
+  },
+  "kind": "unreadable"
+}

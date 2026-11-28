@@ -1,0 +1,12 @@
+{
+  "id": "s018-gen1-angle-pad-a",
+  "project": "alpha",
+  "photos": ["cummins-cj300-gen-plate-angle.jpg", "cummins-cj300-gen-tag.jpg"],
+  "location": "PAD-A",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-1",
+    "failing_checks": ["location", "revision"]
+  },
+  "kind": "superseded_revision"
+}

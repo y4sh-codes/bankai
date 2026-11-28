@@ -1,0 +1,12 @@
+{
+  "id": "s048-lakeview-hard-plate",
+  "project": "alpha",
+  "photos": ["lakeview-pump-plate-hard.jpg"],
+  "location": "PUMP-RM-1",
+  "expected": {
+    "status": "needs_human",
+    "subject_tag": null,
+    "failing_checks": []
+  },
+  "kind": "unreadable"
+}

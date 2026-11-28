@@ -1,0 +1,12 @@
+{
+  "id": "s049-mge-ups-hard-glare",
+  "project": "alpha",
+  "photos": ["mge-eps6000-plate-hard.jpg"],
+  "location": "UPS-RM-A",
+  "expected": {
+    "status": "needs_human",
+    "subject_tag": null,
+    "failing_checks": []
+  },
+  "kind": "unreadable"
+}

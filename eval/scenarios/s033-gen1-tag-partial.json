@@ -1,0 +1,12 @@
+{
+  "id": "s033-gen1-tag-partial",
+  "project": "alpha",
+  "photos": ["cummins-cj300-gen-tag.jpg", "cummins-cj300-gen-whole.jpg"],
+  "location": "PAD-B",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-1",
+    "failing_checks": ["completeness"]
+  },
+  "kind": "partial_shipment"
+}

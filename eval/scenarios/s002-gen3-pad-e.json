@@ -1,0 +1,12 @@
+{
+  "id": "s002-gen3-pad-e",
+  "project": "alpha",
+  "photos": ["bonn-tg2-plate.jpg", "bonn-tg2-whole.jpg"],
+  "location": "PAD-E",
+  "expected": {
+    "status": "confirmed",
+    "subject_tag": "GEN-3",
+    "failing_checks": []
+  },
+  "kind": "correct"
+}

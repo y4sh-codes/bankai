@@ -1,0 +1,12 @@
+{
+  "id": "s041-gen4-tag-sub",
+  "project": "alpha",
+  "photos": ["massarelos-gen-tag.jpg", "massarelos-gen-whole.jpg"],
+  "location": "PAD-F",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-4",
+    "failing_checks": ["substitution"]
+  },
+  "kind": "unapproved_substitution"
+}

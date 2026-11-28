@@ -1,0 +1,12 @@
+{
+  "id": "s012-ats1-wrong-swgr-rm",
+  "project": "alpha",
+  "photos": ["asco-7000-ats-plate-angle.jpg", "asco-7000-ats-whole.jpg"],
+  "location": "SWGR-RM-1",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "ATS-1",
+    "failing_checks": ["location"]
+  },
+  "kind": "wrong_location"
+}

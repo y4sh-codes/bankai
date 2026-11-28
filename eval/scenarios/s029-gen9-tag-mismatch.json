@@ -1,0 +1,12 @@
+{
+  "id": "s029-gen9-tag-mismatch",
+  "project": "alpha",
+  "photos": ["leinau-gen-tag.jpg", "leinau-gen-whole.jpg"],
+  "location": "GEN-YARD-5",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "GEN-9",
+    "failing_checks": ["spec"]
+  },
+  "kind": "spec_mismatch"
+}

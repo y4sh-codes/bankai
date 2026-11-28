@@ -1,0 +1,12 @@
+{
+  "id": "s046-ermen-hard-glare",
+  "project": "alpha",
+  "photos": ["ermen-engels-gen-plate-hard.jpg"],
+  "location": "PAD-A",
+  "expected": {
+    "status": "needs_human",
+    "subject_tag": null,
+    "failing_checks": []
+  },
+  "kind": "unreadable"
+}

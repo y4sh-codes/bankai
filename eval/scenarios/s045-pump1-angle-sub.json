@@ -1,0 +1,12 @@
+{
+  "id": "s045-pump1-angle-sub",
+  "project": "alpha",
+  "photos": ["lakeview-pump-plate-angle.jpg", "lakeview-pump-whole.jpg"],
+  "location": "PUMP-RM-1",
+  "expected": {
+    "status": "flagged",
+    "subject_tag": "PUMP-1",
+    "failing_checks": ["substitution"]
+  },
+  "kind": "unapproved_substitution"
+}
